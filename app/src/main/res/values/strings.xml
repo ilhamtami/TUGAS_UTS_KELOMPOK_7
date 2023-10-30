@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Kelompok 7</string>
+    <string name="nama_testing">Nama</string>
+    <string name="desc">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string-array name="data_name">
+        <item>Elvira Saharani Rajagukguk</item>
+        <item>Ahmad Hanif Azhari</item>
+        <item>Asmi Naya Fitri</item>
+        <item>Muhammad Ilham Khatami</item>
+        <item>Muhammad Rizkiansyah</item>
+        <item>Oktari</item>
+        <item>Yurnaningsih</item>
+        <item>Taufiq Alfarizi</item>
+        <item>Nurly Izaatul Maula</item>
+        <item>Nadia Monica</item>
+
+    </string-array>
+    <string-array name="data_desc">
+        <item>orang ini selalu mengejar keunggulan akademik dan berprestasi di berbagai mata kuliah.</item>
+        <item>orang ini adalah pemimpin organisasi mahasiswa yang aktif dan berpengaruh.</item>
+        <item>orang ini selalu ramah dan mudah bergaul dengan semua orang.</item>
+        <item>orang ini selalu hadir di berbagai kegiatan dan acara kampus.</item>
+        <item>orang ini adalah atlet yang berkomitmen dan mewakili kampus dalam pertandingan olahraga.</item>
+        <item>orang ini adalah seniman yang berbakat dalam seni visual, musik, atau pertunjukan.</item>
+        <item>Orang ini menjalankan bisnis sampingan atau startup di kampus.</item>
+        <item>orang ini aktif dalam penelitian dan eksperimen akademik.</item>
+        <item>orang ini berjuang untuk isu-isu sosial dan berpartisipasi dalam kampanye sosial di kampus.</item>
+        <item>orang ini mempromosikan praktik berkelanjutan dan peduli terhadap lingkungan di kampus.</item>
+
+    </string-array>
+    <string-array name="data_alamat">
+        <item>Jl gang slamet raya 12, kos rahman</item>
+         <item>palembang. jalan roblox nomor 22 </item>
+         <item>gang buntu indralaya kos bunda</item>
+         <item>gang buntu indralaya kos putri</item>
+         <item>gang sarjana. kos ngaret 22</item>
+         <item>gang buntu indralaya kos pangeran </item>
+         <item>gang buntu indralaya kos bunda</item>
+        <item>palembang. jalan nurdin rt 11</item>
+        <item>palembang. jalan KI HAJI TIMUR</item>
+        <item>palembang. jalan ratu husni</item>
+    </string-array>
+    <string-array name="data_email">
+        <item>elviii00@gmail.com</item>
+        <item>hanipcogan11@gmail.com</item>
+        <item>asminaya9@gmail.com</item>
+        <item>ilhamtami000@gmail.com</item>
+        <item>rizkingaret19@gmail.com</item>
+        <item>okta221@gmail.com</item>
+        <item>yurnaningsi3@gmail.com</item>
+        <item>taufiqlangit8@gmail.com</item>
+        <item>nurlylah10@gmail.com</item>
+        <item>nadiamonica662@gmail.com</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/elvira</item>
+        <item>@drawable/hanip</item>
+        <item>@drawable/naya</item>
+        <item>@drawable/tami2</item>
+        <item>@drawable/rizki</item>
+        <item>@drawable/oktarii</item>
+        <item>@drawable/yurnaningsi</item>
+        <item>@drawable/taufiq</item>
+        <item>@drawable/nurly</item>
+        <item>@drawable/monica</item>
+
+
+
+    </integer-array>
+</resources>
